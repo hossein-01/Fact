@@ -3,5 +3,8 @@
     "channel": "@api",
     "data": {
 "fact": "test"
+"fact": "test1"
+"fact": "test2"
+"fact": "test3"
     }
 }
